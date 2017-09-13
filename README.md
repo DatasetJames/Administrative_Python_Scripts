@@ -17,5 +17,5 @@ creates folders based on extensions of files assuming they do not already exist 
 <br><br>
 Removes charaters out of a file name all based on a folder path and a specific file extention
 <br><br>
-network file replication:look for a file on a network(predefined) that is based on user input and clone a copy of that file to your desktop(predefined)
+network file replication:look for a file on a network(predefined) that is based on user input(file nmae) and clones a copy of that file to your desktop(predefined) and adds cloned to the copied file.
 <br><br>
