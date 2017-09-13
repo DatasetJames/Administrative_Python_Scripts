@@ -19,5 +19,5 @@ Removes charaters of all files in a folder
 <br><br>
 Finds all files in folder with specific extension
 <br><br>
-look for a file on a network(predefined) that is based on user input and clone a copy of that file to your desktop(predefined)
+network file replication:look for a file on a network(predefined) that is based on user input and clone a copy of that file to your desktop(predefined)
 <br><br>
